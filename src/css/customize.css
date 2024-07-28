@@ -1,0 +1,267 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mr+De+Haviland&family=Oooh+Baby&family=Saira:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@font-face {
+  font-family: 'Mluvka-Bold';
+  src: url('./fonts/Mluvka-Bold.woff2') format('woff2'),
+      url('./fonts/Mluvka-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-BoldItalic';
+  src: url('./fonts/Mluvka-BoldItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-LightItalic';
+  src: url('./fonts/Mluvka-LightItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-ExtraLight';
+  src: url('./fonts/Mluvka-ExtraLight.woff2') format('woff2'),
+      url('./fonts/Mluvka-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-Italic';
+  src: url('./fonts/Mluvka-Italic.woff2') format('woff2'),
+      url('./fonts/Mluvka-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-Light';
+  src: url('./fonts/Mluvka-Light.woff2') format('woff2'),
+      url('./fonts/Mluvka-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-ExtraBold';
+  src: url('./fonts/Mluvka-ExtraBold.woff2') format('woff2'),
+      url('./fonts/Mluvka-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-ExtraBoldItalic';
+  src: url('./fonts/Mluvka-ExtraBoldItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-ExtraBoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-ExtraLightItalic';
+  src: url('./fonts/Mluvka-ExtraLightItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-ExtraLightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-MediumItalic';
+  src: url('./fonts/Mluvka-MediumItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-SemiBoldItalic';
+  src: url('./fonts/Mluvka-SemiBoldItalic.woff2') format('woff2'),
+      url('./fonts/Mluvka-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mluvka-Medium';
+  src: url('./fonts/Mluvka-Medium.woff2') format('woff2'),
+      url('./fonts/Mluvka-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-Regular';
+  src: url('./fonts/Mluvka-Regular.woff2') format('woff2'),
+      url('./fonts/Mluvka-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mluvka-SemiBold';
+  src: url('./fonts/Mluvka-SemiBold.woff2') format('woff2'),
+      url('./fonts/Mluvka-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Array-Wide';
+  src: url('./fonts/Array-Wide.woff2') format('woff2'),
+       url('./fonts/Array-Wide.woff') format('woff'),
+       url('./fonts/Array-Wide.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Array-Regular';
+  src: url('./fonts/Array-Regular.woff2') format('woff2'),
+       url('./fonts/Array-Regular.woff') format('woff'),
+       url('./fonts/Array-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Array-Semibold';
+  src: url('./fonts/Array-Semibold.woff2') format('woff2'),
+       url('./fonts/Array-Semibold.woff') format('woff'),
+       url('./fonts/Array-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Array-SemiboldWide';
+  src: url('./fonts/Array-SemiboldWide.woff2') format('woff2'),
+       url('./fonts/Array-SemiboldWide.woff') format('woff'),
+       url('./fonts/Array-SemiboldWide.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Array-Bold';
+  src: url('./fonts/Array-Bold.woff2') format('woff2'),
+       url('./fonts/Array-Bold.woff') format('woff'),
+       url('./fonts/Array-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Array-BoldWide';
+  src: url('./fonts/Array-BoldWide.woff2') format('woff2'),
+       url('./fonts/Array-BoldWide.woff') format('woff'),
+       url('./fonts/Array-BoldWide.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+
+:root{
+    --secondary-color:#88CBB4;
+}
+
+body {
+    font-family: 'Mluvka-Medium';
+    font-size: 1rem;
+
+}
+
+.headerRight a::before{
+content: '';
+position: absolute;
+left: -1.3rem;
+top: 50%;
+transform: translateY(-50%);
+width: .7rem;
+height: .7rem;
+background: var(--secondary-color);
+transition: .3s;
+opacity: 0;
+border-radius: 50%;
+}
+
+.headerRight a:hover::before{
+    opacity: 1;
+}
+
+.shadowdiv {
+        
+background: #88CBB4;
+filter: blur(32.6px);
+transform: rotate(29.67deg);
+}
+
+
+
+.banner::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 50%;
+  width: 100%;
+background: linear-gradient(360deg, #0D0D0D 4.24%, rgba(13, 13, 13, 0) 88.97%);
+/* border-radius: 20px; */
+
+}
+.span1::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 58%;
+  transform: translateY(-50%);
+  height: .2rem;
+  width: 94%;
+  background: #EB5939;
+/* border-radius: 20px; */
+
+}
+
+
+
+
+
+
+.bannermouse {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  user-select: none;
+  pointer-events: none;
+  transition: .1s;
+}
+
+
+.btn-hamburger {
+  position: fixed;
+  top: 5rem;
+  right: 2rem;
+  transition: transform .4s cubic-bezier(0.36, 0, 0.66, 0);
+  transform: translateY(0%) scale(0) rotate(0.001deg);
+  z-index: 105;
+}
+body.scrolled .btn-hamburger {
+  transition: transform .4s cubic-bezier(0.34, 1.5, 0.64, 1);
+  transform: translateY(0%) scale(1) rotate(0.001deg);
+}
+
+body .btn-hamburger.active {
+  transform: translateY(0%) scale(1) rotate(0.001deg);
+}
